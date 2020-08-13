@@ -1,0 +1,2 @@
+# Office Supply Store Data Science Project
+This was my capstone Project for Big Bang Data Science Solutions' 17-Week Data Science and Machine Learning Program that I completed in July 2020. I analyzed data from a hypothetical office supply store's customer campaign and used data visualization and machine learning to make predictions on which customers the store should target in future campaigns for the most profit. View the PDF to see my final presentation!
